@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
 s.name         = "MTKit"
 s.version      = "1.0.6"
 s.summary      = "MTKitTest is a easy test."
+s.platform     = :ios, "8.0"
 
 s.description  = <<-DESC
 This description is used to generate tags and improve search results;
